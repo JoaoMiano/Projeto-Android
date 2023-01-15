@@ -135,5 +135,11 @@ footer > p > strong{
     margin: auto;
 
 }
+footer a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: #1A5C38;
+    
+}
 
 
