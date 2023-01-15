@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #84E1AD;
+    background-color: #f1e9b7b6;
     margin: 0px;
 }
 header{
@@ -47,6 +47,7 @@ main{
     margin: auto;
     padding: 2px 3px;
     text-align: justify;
+    box-shadow: 3px 5px 10px rgba(0, 0, 0, 0.377);
 }
 h2{
     font-family: 'android', sans-serif;
